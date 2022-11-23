@@ -8,8 +8,7 @@ Professional with a Bachelor's Degree in **Informatics Engineering** from the **
 🌱 I’m currently learning at **Dicoding**
 
 ### Certification
-- [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/1OP8LQ0EVZQK/)
-- [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/KEXL3OE54PG2/)
+- [HERE](https://www.dicoding.com/users/bimantarasc/academies)
 
 <!--
 **BimantaraMajid/BimantaraMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
