@@ -8,7 +8,7 @@ Professional with a Bachelor's Degree in **Informatics Engineering** from the **
 🌱 I’m currently learning at **Dicoding**
 
 ### Certification
-- [HERE](https://www.dicoding.com/users/bimantarasc/academies)
+- [Certification Dicoding](https://www.dicoding.com/users/bimantarasc/academies)
 
 <!--
 **BimantaraMajid/BimantaraMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
